@@ -1,0 +1,39 @@
+.middle-row {
+  background: url("background.jpg") no-repeat;
+  margin-top: 5px;
+}
+
+#opt {
+  color: #ff6600;
+}
+
+#para {
+  color: #a9a9a9;
+}
+
+.last {
+  text-align: center;
+}
+
+.top-bar {
+  background-color: #ffffff;
+}
+
+.right {
+  list-style: none;
+  background-color: #ffffff;
+}
+
+form {
+  width: 700px;
+  height: 40px;
+}
+
+#subscribe {
+  background-color: #ff6600;
+  color: #ffffff;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+
